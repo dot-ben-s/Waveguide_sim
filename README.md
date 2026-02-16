@@ -46,7 +46,10 @@ The project is modularized to separate the physics configuration from the numeri
 ```text
 
 ├── CMakeLists.txt
+├── Presentation.pdf
 ├── mesh/
+│   ├── mesh_gen.cpp
+│   └── waveguide_mesh.msh
 ├── src/
 │   ├── main.cpp         
 │   ├── dg_block_inverse.hpp    
