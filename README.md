@@ -41,7 +41,7 @@ The simulation analyzes a waveguide structure with a cavity with **PEC walls** f
 
 ##  Project Structure
 
-The project is modularized to separate the physics configuration from the numerical solver logic.
+The project is modularized to separate the physics configuration from the numerical solver logic. Use Paraview to visualize the results.
 
 ```text
 
